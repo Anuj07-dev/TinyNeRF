@@ -105,3 +105,4 @@ These are the main reasons PSNR plateaus at ~26 dB. Full NeRF reaches 28–31 dB
 - [NeRF paper](https://arxiv.org/abs/2003.08824) — Mildenhall et al., ECCV 2020
 - [Original TinyNeRF colab](https://colab.research.google.com/github/bmild/nerf/blob/master/tiny_nerf.ipynb)
 - [viser](https://github.com/nerfstudio-project/viser) — 3D visualization library
+- README and Markdown comments but ClaudeCode
